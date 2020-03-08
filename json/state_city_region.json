@@ -1,0 +1,139 @@
+[
+ {
+  "id":"1",
+  "name":"MAHARASHTRA",
+  "parent_id":"0"
+ }, 
+ {
+  "id":"2",
+  "name":"UTTAR PRADESH",
+  "parent_id":"0"
+ }, 
+ {
+  "id":"3",
+  "name":"KARNATAKA",
+  "parent_id":"0"
+ }, 
+ {
+  "id":"4",
+  "name":"MUMBAI",
+  "parent_id":"1"
+ }, 
+ {
+  "id":"5",
+  "name":"PUNE",
+  "parent_id":"1"
+ }, 
+ {
+  "id":"6",
+  "name":"NASHIK",
+  "parent_id":"1"
+ }, 
+ {
+  "id":"7",
+  "name":"AGRA",
+  "parent_id":"2"
+ }, 
+ {
+  "id":"8",
+  "name":"LUCKNOW",
+  "parent_id":"2"
+ }, 
+ {
+  "id":"9",
+  "name":"BANGALORE",
+  "parent_id":"3"
+ }, 
+ {
+  "id":"10",
+  "name":"MYSORE",
+  "parent_id":"3"
+ }, 
+ {
+  "id":"11",
+  "name":"BORIVALI",
+  "parent_id":"4"
+ }, 
+ {
+  "id":"12",
+  "name":"CHURCHGATE",
+  "parent_id":"4"
+ }, 
+ {
+  "id":"13",
+  "name":"BANDRA",
+  "parent_id":"4"
+ }, 
+ {
+  "id":"14",
+  "name":"PUNE CITY",
+  "parent_id":"5"
+ }, 
+ {
+  "id":"15",
+  "name":"DEHU ROAD",
+  "parent_id":"5"
+ }, 
+ {
+  "id":"16",
+  "name":"PUNE KILLA",
+  "parent_id":"5"
+ }, 
+ {
+  "id":"17",
+  "name":"SHIRDI",
+  "parent_id":"6"
+ }, 
+ {
+  "id":"18",
+  "name":"NASHIK CITY",
+  "parent_id":"6"
+ }, 
+ {
+  "id":"19",
+  "name":"SHANI SIGNAPUR",
+  "parent_id":"6"
+ }, 
+ {
+  "id":"20",
+  "name":"AGRA CITY",
+  "parent_id":"7"
+ }, 
+ {
+  "id":"21",
+  "name":"TAJ MAHAL",
+  "parent_id":"7"
+ }, 
+ {
+  "id":"22",
+  "name":"LUCKNOW CITY",
+  "parent_id":"8"
+ }, 
+ {
+  "id":"23",
+  "name":"ALLAHBAD",
+  "parent_id":"8"
+ }, 
+ {
+  "id":"24",
+  "name":"OLD BANGALORE",
+  "parent_id":"9"
+ }, 
+ {
+  "id":"25",
+  "name":"NEW BANGALORE",
+  "parent_id":"9"
+ }, 
+ {
+  "id":"26",
+  "name":"OLD MYSORE",
+  "parent_id":"10"
+ }, 
+ {
+  "id":"27",
+  "name":"MYSORE CITY",
+  "parent_id":"10"
+ }
+ 
+]
+

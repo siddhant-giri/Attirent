@@ -1,0 +1,45 @@
+.form{
+    text-align: center;
+}
+
+.form1 .sub{
+    height:35px; width:100px; 
+    margin-top: 50px; 
+    margin-bottom: 10px;
+     background: black;
+     color: #14d7e7;
+    border-color: #14cde7 ; 
+    font-weight: bold; 
+    border-radius: 20px;
+}
+
+.form1 .sub:hover{
+    background: #14cde7;
+    color: white;
+    border-color: black;
+}
+
+.form11 .sub1{
+    height:35px; width:100px; 
+    margin-top: 50px; 
+    margin-bottom: 10px;
+     background: black;
+     color: #14d7e7;
+    border-color: #14cde7 ; 
+    font-weight: bold; 
+    border-radius: 20px;
+}
+
+ .form11 .sub1:hover{
+    background: #14cde7;
+    color: white;
+    border-color: black;
+}
+
+.form #link{
+color:#14d7e7;
+}
+
+.form #link:hover{
+color: #a2df1b;
+}
